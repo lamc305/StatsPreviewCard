@@ -100,7 +100,7 @@ span {
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: var(--White); 
 }
 
 @media only screen and (max-width: 425px){
